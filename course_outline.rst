@@ -11,7 +11,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
 
 **09:30 - 10:15** `Sustainable software practices`_::
-  
+
     Version Control including Git.
 
     Open community coding including GitHub.
@@ -71,8 +71,8 @@ Time to settle in and say hello. Course tutors will open the course and introduc
 With a brief `online survey TBD <TBD>`_, we will get an overview of the participants' background and motivations.
 
 
-Collaborative Software Development
-----------------------------------
+Sustainable software practices
+------------------------------
 
 We will provide a "real-time" demonstration of collaborative development based on a Distributed Version Control System.
 
@@ -88,8 +88,8 @@ Course participants can create their own accounts at http://githubcom or http://
 can host the code they wrote during the course.
 
 
-Python Quick Start
-------------------
+Python, and Scientific Python
+-----------------------------
 
 The Python quick start will cover e.g.::
 
@@ -108,15 +108,9 @@ The Python quick start will cover e.g.::
    - Plotting with matplotlib
 
 
-The Ipython Notebook
---------------------
 
-Participants will learn how to use the IPython notebook for interactive data analysis and coding.
-The IPython notebook will also be the format for all the exercises within this course.
-
-
-Hands on Py-ART
----------------
+Practical Py-ART 1
+------------------
 
 Session outline can be found at: https://github.com/EVS-ATMOS/pyart_short_course
 
@@ -138,38 +132,14 @@ Bonus 1: CHILL RHIs of Co Supercell
          http://nbviewer.ipython.org/github/EVS-ATMOS/pyart_short_course/blob/master/Bonus%201%2C%20CHILL%20RHI.ipynb
 
 
-Hands on wradlib
-----------------
+Practical Py-ART 2
+------------------
 
-The entire session outline can be found at http://wradlib_short_course.bitbucket.org.
-
-Overview::
-
-   - History and background
-
-   - Community and collaboration
-
-   - Development paradigm
-
-   - Installation, documentation
-
-   - Package structure and modules
-
-   - Examples
-
-Exercises::
-
-   - Read polar DX data from German Weather Service and University of Bonn
-
-   - Georeferencing and plotting a PPI
-
-   - Weighted compositing
-
-   - Overlays with other geodata
+TBD
 
 
-Hands on BALTRAD
-----------------
+Python Tools
+------------
 
 Overview::
 
@@ -193,9 +163,8 @@ Examples::
 
     - Generating composites/mosaics
 
-
-Interoperability Demonstration Experiment
------------------------------------------
+Wrapup
+------
 
 In this final exercise, we will demonstrate pairwise interaction between the presented OSS tools.
 
@@ -211,6 +180,7 @@ We will show how BALTRAD and wradlib can exchange data via ODIM_H5 files::
    - the result will be read, georeferenced and presented by wradlib
 
    - processing alternatives might be tested using wradlib's own processing capabilities
+
 
 
 Feedback round
