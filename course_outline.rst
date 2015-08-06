@@ -1,4 +1,4 @@
-AMS Short Course on Open Source Radar Software -DRAFT- adopted from ERAD course
+AMS Short Course on Open Source Radar Software
 =============================
 
 Render this document as pdf by ``rst2pdf course_outline.rst``
@@ -10,64 +10,52 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
    Introduction of tutors and course outline, brief participant survey.
 
 
-**09:30 - 10:15** `Collaborative Software Development`_::
+**09:30 - 10:15** `Sustainable software practices`_::
   
- The idea of treating users as co-developers is at the heart of OSS.
+    Version Control including Git.
 
- We will demonstrate the ease of contributing to OSS projects.
+    Open community coding including GitHub.
 
-**10:15 - 10:30** `Python Quick Start`_::
+**10:15 - 11:00** `Python, and Scientific Python`_::
 
    Python will be the key to use the presented radar software tools.
 
    Learn how to use Python for writing scripts and for interactive data analysis.
 
-**10:30 - 11:00** Coffee break
+   Scipy, Numpy and Matplotlib
 
-**11:00 - 11:30** `The Ipython Notebook`_::
+   What is IPython and the IPython notebook? 
 
-   Using the IPython notebook as an interactive Python environment.
+**11:00 - 11:30** Coffee break
 
+**11:30 - 13:00** `Practical Py-ART 1`_::
 
-**11:30 - 12:30** `Hands on Py-ART`_::
+   The Py-ART data model, how is radar represented in Python using Py-ART
 
-   Overview of the Py-ART software,
-
-   Exercises.
-
-**12:30 - 13:00**  `Hands on wradlib`_::
-
-   Overview of the wradlib software,
-
-   Exercises.
-
+   Plotting in Py-ART
 
 **13:00 - 14:00** Lunch break
 
 
-**14:00 - 14:30** `Hands on wradlib`_::
+**14:00 - 15:00** `Practical Py-ART 2`_::
 
-   cont.
+   The Gatefilter and how to use it.
 
+   Processing: Texture and dealiasing.
 
-**14:30 - 15:30** `Hands on BALTRAD`_::
+   Gridding: Gridding one or more radars. 
 
-   Overview of the BALTRAD software,
+**15:00 - 15:30** Coffee break
 
-   Exercises.
+**15:30 - 16:30**  `Python Tools`_::
 
+    TBD, This is for ART-View and Py-TDMA etc.. 
 
-**15:30 - 16:00** Coffee break
+**16:30 - 17:00** `Wrapup`_::
 
+   Questions and comments.
 
-**16:00 - 16:45** `Interoperability Demonstration Experiment`_::
-
-   See BALTRAD, Py-ART and wradlib interact.
-
-
-**16:45 - 17:00** `Feedback round`_::
-
-   Feedback of participants on the use of the presented OSS tools.
+   Feedback.
 
 
 .. raw:: pdf
