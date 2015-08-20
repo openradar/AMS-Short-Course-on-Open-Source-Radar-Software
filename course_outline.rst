@@ -50,6 +50,10 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 **15:30 - 16:30**  `Python Tools`_::
 
     TBD, This is for ART-View and Py-TDMA etc.. 
+    
+    How to use the ARTview visualization package.
+    
+    How to launch a "quick" ARTview window from command line during interactive data analysis.
 
 **16:30 - 17:00** `Wrapup`_::
 
