@@ -9,7 +9,13 @@ This living repository was first created for the <a href="https://www2.ametsoc.o
 > 
 > <a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/Welcome.ipynb"> Welcome Slides </a>
 >
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/1_Intro_to_Python_and_SciPy.ipynb">Intro to Python and SciPy</a>
+>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/2_Basic_PyART.ipynb">Basic Py-ART</a>
+>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/Simple%20proccessing%20and%20adding%20a%20field.ipynb">Simple proccessing and adding a field </a>
+>
 > <a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/Texture%20and%20Dealiasing%20.ipynb">Texture and Dealiasing</a>
 >
->
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/Mapping%20to%20a%20cartesian%20grid.ipynb">Gridding radars to a Cartesian Grid</a>
 
