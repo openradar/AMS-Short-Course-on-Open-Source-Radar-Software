@@ -17,10 +17,21 @@ This living repository was first created for the <a href="https://www2.ametsoc.o
 >
 ><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/4b_PyART_data_model.ipynb">Py-ART Data Model</a>
 >
-><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/5_Simple%20proccessing%20and%20adding%20a%20field.ipynb">Simple proccessing and adding a field </a>
-><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/6_Texture%20and%20Dealiasing%20.ipynb">Texture and Dealiasing</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/5_Simple_proccessing_and_adding_a_field.ipynb">Simple proccessing and adding a field </a>
+>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/6_Texture_and_Dealiasing.ipynb">Texture and Dealiasing</a>
 >
 ><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/7_Mapping%20to%20a%20cartesian%20grid.ipynb">Gridding radars to a Cartesian Grid</a>
+>
+><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8a_artview_demo_ams37.ipynb">ARTView Demo</a>
+>
+><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8b_plot_current_nexrad_open_artview.ipynb">Plot Current Nexrad in ARTView</a>
+>
+><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9a_CSU_RadarTools_Demo-AMS_OSRSC.ipynb">CSU Radar Tools</a>
+>
+><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9b_PyTDA_Demo-AMS_OSRSC.ipynb">PyTDA Demo</a>
+>
+
 
 ###<a href='http://figshare.com/articles/Data_for_AMS_Short_Course_on_Open_Source_Radar_Software/1537461'>FigShare data repository</a>
 
