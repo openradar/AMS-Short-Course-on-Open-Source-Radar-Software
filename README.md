@@ -9,19 +9,26 @@ Prior to the course it would be extremely helpful if all attenders could
 install Anaconda and Py-ART using the following steps.
 
 
-1. Download and install Anaconda from Continuum Analytics using the instructions on the site, 
-   http://continuum.io/downloads.  Add Anaconda to your path if/when asked.
+1.  Download and install Anaconda from Continuum Analytics using the 
+    instructions on the site, http://continuum.io/downloads.  
+    Add Anaconda to your path if/when asked.
 
-2. Open a terminal or command prompt and install basemap and netcdf using the command::
-   
+2.  Open a terminal or command prompt and install basemap and netcdf using the
+    command:
+    
+    ```
     conda install basemap netcdf4 
+    ```
    
-   Answer yes to any prompts.
+    Answer yes to any prompts.
 
-3. In the same terminal or command prompt install Py-ART using the command::
-        conda install -c https://conda.anaconda.org/jjhelmus pyart
+3.  In the same terminal or command prompt install Py-ART using the command:
 
-   Answer yes to any prompts. 
+    ```
+    conda install -c https://conda.anaconda.org/jjhelmus pyart
+    ```
+
+    Answer yes to any prompts. 
 
 ### Contents
 
