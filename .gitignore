@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 data/
+# ignore netCDF files created output by notebooks
+notebooks/*.nc
