@@ -21,15 +21,15 @@ This living repository was first created for the <a href="https://www2.ametsoc.o
 >
 ><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/6_Texture_and_Dealiasing.ipynb">Texture and Dealiasing</a>
 >
-><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/7_Mapping%20to%20a%20cartesian%20grid.ipynb">Gridding radars to a Cartesian Grid</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/7_Mapping_to_a_cartesian_grid.ipynb">Gridding radars to a Cartesian Grid</a>
 >
-><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8a_artview_demo_ams37.ipynb">ARTView Demo</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8a_artview_demo_ams37.ipynb">ARTView Demo</a>
 >
-><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8b_plot_current_nexrad_open_artview.ipynb">Plot Current Nexrad in ARTView</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/8b_plot_current_nexrad_open_artview.ipynb">Plot Current Nexrad in ARTView</a>
 >
-><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9a_CSU_RadarTools_Demo-AMS_OSRSC.ipynb">CSU Radar Tools</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9a_CSU_RadarTools_Demo-AMS_OSRSC.ipynb">CSU Radar Tools</a>
 >
-><a href="hhttp://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9b_PyTDA_Demo-AMS_OSRSC.ipynb">PyTDA Demo</a>
+><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/9b_PyTDA_Demo-AMS_OSRSC.ipynb">PyTDA Demo</a>
 >
 
 
