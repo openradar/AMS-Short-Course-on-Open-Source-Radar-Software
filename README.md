@@ -23,3 +23,6 @@ This living repository was first created for the <a href="https://www2.ametsoc.o
 >
 ><a href="http://nbviewer.ipython.org/github/openradar/AMS-Short-Course-on-Open-Source-Radar-Software/blob/master/Mapping%20to%20a%20cartesian%20grid.ipynb">Gridding radars to a Cartesian Grid</a>
 
+###<a href='http://figshare.com/articles/Data_for_AMS_Short_Course_on_Open_Source_Radar_Software/1537461'>FigShare data repository</a>
+
+
